@@ -1,0 +1,20 @@
+{
+    "phone_ip": "10.90.74.29",
+    "phone_port": "8080",
+    "timeout_seconds": 30,
+    "check_interval": 2,
+    "max_retries": 3,
+    "connection_timeout": 5,
+    "debug_mode": true,
+    "detection_method": "single_frame",
+    "admin_auto_interval": 10,
+    "min_face_confidence": 20,
+    
+    "exam_motion_threshold": 500,
+    "exam_paper_size_threshold": 2000,
+    "exam_face_distance_threshold": 100,
+    "exam_save_video_duration": 15,
+    "exam_check_interval": 0.5,
+    "exam_video_fps": 10,
+    "exam_pre_event_buffer": 3
+}

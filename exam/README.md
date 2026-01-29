@@ -15,15 +15,16 @@ An open-source automated online exam proctoring system that uses computer vision
 
 ```
 exam/
-├── admin_faces/             Reference face images
-├── auto_capture/            Automatically captured frames
-├── exam_frames_buffer/      Temporary frame storage
-├── exam_logs/               Logs and exam reports
-├── exam_suspicious/         Evidence of suspicious activity
-├── database/                Local data storage
-├── debug/                   Debug outputs
-├── config.json              System configuration
-└── exammode.py              Main application entry point
+├── admin_faces/            # Reference face images
+├── auto_capture/           # Automatically captured frames
+├── exam_frames_buffer/     # Temporary frame storage
+├── exam_logs/              # Logs and exam reports
+├── exam_suspicious/        # Evidence of suspicious activity
+├── database/               # Local data storage
+├── debug/                  # Debug outputs
+├── config.json             # System configuration
+└── exammode.py             # Main application entry point
+
 ```
 ## Getting Started
 Prerequisites

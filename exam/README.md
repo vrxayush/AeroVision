@@ -1,6 +1,6 @@
 ## AI-Based Online Exam Proctoring System
 
-An open-source automated online exam proctoring system that uses computer vision to monitor candidates, detect suspicious behavior, and generate examination logs and reports in real time.
+An automated online exam proctoring system that uses computer vision to monitor candidates, detect suspicious behavior, and generate examination logs and reports in real time.
 
 ## Features
 

@@ -49,8 +49,8 @@ config.json
 
 ## Output
 
-1. Logs are stored in exam_logs/
-2. Suspicious activity images are stored in exam_suspicious/
+1. Logs are stored in `exam_logs/`
+2. Suspicious activity images are stored in `exam_suspicious/`
 3. Exam reports are generated automatically at the end of each session
 
 

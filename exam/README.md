@@ -12,6 +12,8 @@ An open-source automated online exam proctoring system that uses computer vision
 6. Offline, local execution
 
 ## Project Structure
+
+```
 exam/
 ├── admin_faces/             Reference face images
 ├── auto_capture/            Automatically captured frames
@@ -22,7 +24,7 @@ exam/
 ├── debug/                   Debug outputs
 ├── config.json              System configuration
 └── exammode.py              Main application entry point
-
+```
 ## Getting Started
 Prerequisites
 1. Python 3.x

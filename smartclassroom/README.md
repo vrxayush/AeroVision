@@ -24,6 +24,8 @@ It is suitable for:
 7. Offline execution
 
 ## Project Structure
+
+```
 smart_classroom_enhanced/
 ├── admin_faces/            # Reference images of known individuals
 ├── auto_capture/           # Auto-captured frames and face images
@@ -32,6 +34,7 @@ smart_classroom_enhanced/
 ├── config.json             # System configuration
 ├── enhanced_classroom.py   # Main application entry point
 └── venv/                   # Virtual environment (optional)
+```
 
 ## Getting Started
 Prerequisites
@@ -40,29 +43,31 @@ Prerequisites
 2. Webcam
 
 # Installation
+```
 pip install opencv-python
-
+```
 
 (Additional libraries may be required depending on configuration)
 
 # Run the Application
-
+```
 python enhanced_classroom.py
-
+```
 
 Ensure the webcam is connected before running the program.
 
 # Configuration
 
 System parameters such as detection thresholds, capture behavior, and recognition rules can be modified in:
-
+```
 config.json
+```
 
 ## Output
 
-1. Captured classroom images → auto_capture/
-2. Detected face images → auto_capture/face_*.jpg
-3. Debug detection frames → debug/
+1. Captured classroom images → `auto_capture/`
+2. Detected face images → `auto_capture/face_*.jpg`
+3. Debug detection frames → `debug/`
 4. Each captured image includes timestamps and identity labels when available.
 
 

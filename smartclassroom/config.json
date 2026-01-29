@@ -1,0 +1,12 @@
+{
+    "phone_ip": "10.90.74.29",
+    "phone_port": "8080",
+    "timeout_seconds": 30,
+    "check_interval": 2,
+    "max_retries": 3,
+    "connection_timeout": 5,
+    "debug_mode": true,
+    "detection_method": "single_frame",
+    "admin_auto_interval": 10,
+    "min_face_confidence": 20
+}

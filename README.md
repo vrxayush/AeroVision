@@ -1,3 +1,17 @@
+## Important link
+
+# website link
+
+https://aerovision.vly.site/
+
+# Youtube video
+This link is submitted in project submission 
+
+https://youtu.be/hOds6qRG8dY?feature=shared
+
+Easy explanation video
+Soon to be uploaded
+
 ## Overview
 
 This project uses the following tech stack:

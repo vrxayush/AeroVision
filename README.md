@@ -1,10 +1,10 @@
 # Important link
 
-## website link
+## Website link
 
 https://aerovision.vly.site/
 
-# Youtube video
+## Youtube video
 This link is submitted in project submission 
 
 https://youtu.be/hOds6qRG8dY?feature=shared

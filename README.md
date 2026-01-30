@@ -10,7 +10,8 @@ This link is submitted in project submission
 https://youtu.be/hOds6qRG8dY?feature=shared
 
 Easy explanation video
-Soon to be uploaded
+
+https://youtu.be/Myrj7eY3MzU?feature=shared
 
 ## Overview
 

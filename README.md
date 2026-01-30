@@ -15,22 +15,7 @@ https://youtu.be/Myrj7eY3MzU?feature=shared
 
 ## Overview
 
-This project uses the following tech stack:
-- Vite
-- Typescript
-- React Router v7 (all imports from `react-router` instead of `react-router-dom`)
-- React 19 (for frontend components)
-- Tailwind v4 (for styling)
-- Shadcn UI (for UI components library)
-- Lucide Icons (for icons)
-- Convex (for backend & database)
-- Convex Auth (for authentication)
-- Framer Motion (for animations)
-- Three js (for 3d models)
-
-All relevant files live in the 'src' directory.
-
-Use pnpm for the package manager.
+This project introduces an AI-based smart classroom and campus security system using CCTV cameras to automate energy management, enhance security, and prevent exam malpractices. Each classroom will be equipped with a CCTV camera having an inbuilt AI system that continuously monitors the room in real time. If the AI detects that no student or teacher is present in the classroom, it will automatically switch OFF all lights and fans to save electricity. When someone enters the room, the system will turn them ON automatically, even if the AI had previously turned them OFF while the physical switch remained ON. Smart switches controlled by the AI system will be used for this automation. In sensitive areas such as the HOD room, admin office, and director’s office, the system will perform face mapping of every person who enters and store their facial record with date and time for future security reference. Additionally, during examinations, the same CCTV-based AI system will work as an anti-cheating mechanism by detecting suspicious movements such as paper exchange or unusual behavior; the exact time and footage of such activity will be recorded and automatically sent to the examination department. Each classroom will have its own CCTV and a separate online dashboard accessible to the admin and class in-charge, where monthly electricity usage can be monitored and classroom devices can be remotely controlled. Overall, this system aims to create a smarter, safer, and more energy-efficient educational environment using artificial intelligence.
 
 ## Setup
 
